@@ -1,7 +1,6 @@
 <!doctype html>
 <html>
-<head>
-	
+<head>	
 <meta charset="utf-8">
 <title>Untitled Document</title>
 <style type="text/css">
@@ -16,8 +15,8 @@ body p {
 </head>
 
 <body>
-<h2 class="gotham">Kaitlyn Yang</h2>
-<p>AVT 415 Fall 2022</p>
+<h1 class="gotham">Kaitlyn Yang</h1>
+<p><strong>AVT 415 Fall 2022</strong></p>
 <p><br>
   <strong>Exercises</strong><br>
   E1: <a href="https://xd.adobe.com/view/7ca6455a-5d7e-46cf-84ff-eef3fab9b704-29f5/">A Little Background</a><br>
