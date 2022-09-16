@@ -12,7 +12,7 @@
 }
 
 body {
-  font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+  font-family:"Poppins, Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
   font-size: 18px;
   line-height: 1.8em;
   color: #5D6063;
@@ -38,9 +38,9 @@ body {
   margin-bottom: 20px;
 }
 .div3 {
-  width: 300px;
+  width: 500px;
   height: 200px;
-	padding: 20px 60px 80px 60px;
+	padding: 20px 50px 80px 50px;
   border: 3px solid blue;
 	margin: 50px 100px;
   background-color: white;
@@ -49,9 +49,9 @@ body {
 }
 
 .div4 {
-  width: 300px;
+  width: 500px;
   height: 200px;  
-  padding: 30px 60px 10px 60px;
+  padding: 30px 50px 10px 50px;
   border: 3px solid red;
 	margin: 50px 100px;
   background-color: white;
