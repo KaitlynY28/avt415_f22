@@ -39,7 +39,7 @@ body {
 }
 .div3 {
   width: 500px;
-  height: 200px;
+  height: 300px;
 	padding: 20px 50px 80px 50px;
   border: 3px solid blue;
 	margin: 50px 100px;
@@ -50,7 +50,7 @@ body {
 
 .div4 {
   width: 500px;
-  height: 200px;  
+  height: 300px;  
   padding: 30px 50px 10px 50px;
   border: 3px solid red;
 	margin: 50px 100px;
