@@ -1,0 +1,94 @@
+@font-face {
+    font-family: '1942_report1942_report';
+    src: url("../font/1942-webfont.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+  font-size: 18px;
+  line-height: 1.8em;
+  color: #5D6063;
+  background-color: bisque;
+}
+.div1 {
+  width: 300px;
+  height: 250px;
+	padding: 20px;
+  border: 3px solid blue;
+	margin: 50px 100px;
+  background-color: white;
+  margin-bottom: 50px;
+}
+
+.div2 {
+  width: 300px;
+  height: 100px;  
+  padding: 50px;
+  border: 5px solid red;
+	margin: 50px 100px;
+  background-color: white;
+  margin-bottom: 20px;
+}
+.div3 {
+  width: 300px;
+  height: 200px;
+	padding: 20px 60px 80px 60px;
+  border: 3px solid blue;
+	margin: 50px 100px;
+  background-color: white;
+  margin-bottom: 50px;
+	box-sizing: border-box;
+}
+
+.div4 {
+  width: 300px;
+  height: 200px;  
+  padding: 30px 60px 10px 60px;
+  border: 3px solid red;
+	margin: 50px 100px;
+  background-color: white;
+  margin-bottom: 20px;
+	box-sizing: border-box;
+}
+
+.div5 { 
+  padding: 40px 50px 20px 50px;
+  border: 1px solid red;
+  background-color: powderblue;
+  margin-bottom: 20px;
+	line-height: 150%
+}
+
+.div6 { /*design the style*/
+	padding: 50px;
+	padding-bottom: 30px;
+	line-height: 120%
+}
+
+h1{
+	font-family: 'Poppins-bold';
+	padding-bottom: 30px;
+}
+h2 {	
+	font-family: 'Poppins', cursive;
+}
+
+h3 {	
+	font-family: 'Poppins-light', cursive;
+	font-weight:400;
+}
+h4 {	
+	font-family: 'Poppins-italic', cursive;
+	font-weight:700;
+	/*Font names: Poppins-bold, poppins, poppins-light, poppins-italic*/
+}@charset "utf-8";
+/* CSS Document */
+
