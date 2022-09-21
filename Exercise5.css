@@ -1,0 +1,92 @@
+@font-face {
+    font-family: Poppins, 'Poppins Medium', 'Poppins Thin';
+    src: url("https://www.fontspace.com/primetime-font-f22177") format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+	width:1440px;
+  font-family:"Poppins, Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+  font-size: 18px;
+  line-height: 1.8em;
+  color: #5D6063;
+  background-color: aliceblue;
+	}
+.div1 {
+  width: 1440px;
+  height: 180px;
+	padding: 30px;
+	margin: 20px 20px;
+  margin-bottom: 20px;
+}
+.div2 {
+  width: 1440px;
+  height: 2350px;
+	padding: 30px;
+	margin: 20px 20px;
+  margin-bottom: 50px;
+}
+.div3 {
+  width: 1440px;
+  height: 200px;
+	padding: 30px;
+	margin: 20px 20px;
+  margin-bottom: 20px;
+}
+.div4 {
+  width: 500px;
+  height: 300px;
+	padding: 20px 50px 80px 50px;
+  border: 3px solid blue;
+	margin: 50px 100px;
+  background-color: white;
+  margin-bottom: 50px;
+	box-sizing: border-box;
+}
+
+.div5 {
+  width: 500px;
+  height: 300px;  
+  padding: 30px 50px 10px 50px;
+  border: 3px solid red;
+	margin: 50px 100px;
+  background-color: white;
+  margin-bottom: 20px;
+	box-sizing: border-box;
+}
+
+.div6 { 
+  padding: 40px 50px 20px 50px;
+  border: 1px solid red;
+  background-color: powderblue;
+  margin-bottom: 20px;
+	line-height: 150%
+}
+
+.div7 { /*design the style*/
+	padding: 50px;
+	padding-bottom: 30px;
+	line-height: 120%
+}
+
+h1{
+	font-family: 'Poppins-bold';
+	padding-bottom: 30px;
+}
+h2 {	
+	font-family: 'Poppins', cursive;
+}
+
+h3 {	
+	font-family: 'Poppins-light', cursive;
+	font-weight:400;
+}
+}@charset "utf-8";
+/* CSS Document */
