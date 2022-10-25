@@ -5,12 +5,17 @@
     margin: 0;
     font-size: 40px;
   }
+@font-face {
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+  src: url(impactreg.woff);
+}
 
 #container {
 			   background-image: url("background thanksgiving.jpg");
 	  width:90%;
 	  margin-top: 40vh;
 	  margin-left: 10vh;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"
   }
 
   p {
