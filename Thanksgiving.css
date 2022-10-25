@@ -1,14 +1,13 @@
 @charset "UTF-8";
 /* CSS Document */
   body {
-	   background-image: url("background thanksgiving.jpg");
- background-color: #cccccc;
     background-color: lightcoral;
     margin: 0;
     font-size: 40px;
   }
 
 #container {
+			   background-image: url("background thanksgiving.jpg");
 	  width:90%;
 	  margin-top: 40vh;
 	  margin-left: 10vh;
@@ -49,7 +48,7 @@
     }
 	   
     p {
-    color: #b13057;
+    color: #FFFFFF;
 	text-align: center
     }
 	  
